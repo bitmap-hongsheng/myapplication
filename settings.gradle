@@ -1,0 +1,5 @@
+include ':app', ':myapplication', ':myapplication2', ':myapplication3', ':slidingpanelayout', ':myapplication4', ':myapplication5', ':myapplication6', ':screan'
+include ':library'
+include ':pullToRefreshListFragment'
+include ':pullToRefreshViewPager'
+include ':sample'
